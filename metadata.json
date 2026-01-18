@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CyberSynth SFX",
+  "description": "A cyberpunk-themed UI sound effect generator using the Web Audio API. Synthesize, visualize, and export .wav files directly from your browser.",
+  "requestFramePermissions": []
+}
